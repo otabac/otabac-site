@@ -1,0 +1,4 @@
+baseURL = "https://tabac.me"
+languageCode = "en-us"
+title = "Ori Tabac's Landing Page"
+theme = "anatole"
